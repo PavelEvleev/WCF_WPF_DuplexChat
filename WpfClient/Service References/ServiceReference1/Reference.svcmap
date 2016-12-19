@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ae11405a-8ad9-4415-9afd-381be67dd04c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:11115/Design_Time_Addresses/WCF_Duplex_Chat_Svc/Duplex_ChatService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="312e4864-8ba0-407a-8abc-eecec0225174" SourceId="1" SourceUrl="http://localhost:11115/Design_Time_Addresses/WCF_Duplex_Chat_Svc/Duplex_ChatService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="2e038c6e-4197-4012-918a-2a376fe4a5ae" SourceId="1" SourceUrl="http://localhost:11115/Design_Time_Addresses/WCF_Duplex_Chat_Svc/Duplex_ChatService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="40289404-498f-4095-929b-20ca1d0fb907" SourceId="1" SourceUrl="http://localhost:11115/Design_Time_Addresses/WCF_Duplex_Chat_Svc/Duplex_ChatService/mex" />
+    <MetadataFile FileName="WCF_Duplex_Chat_Svc.xsd" MetadataType="Schema" ID="468ad061-17fc-435f-9298-aba7adbfcb0d" SourceId="1" SourceUrl="http://localhost:11115/Design_Time_Addresses/WCF_Duplex_Chat_Svc/Duplex_ChatService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
